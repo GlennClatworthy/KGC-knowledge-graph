@@ -1,1 +1,11 @@
-This is where something will go when my brain's working again.
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# Remove owl:sameAs triples with Wikidata prefix but no text
+# Example:
+#    kgc:626 a schema:Organization ;
+#    schema:name "Stemma" ;
+#    owl:sameAs wd: .
+
+delete where { 
+	?s owl:sameAs <http://www.wikidata.org/entity/>.
+} 
