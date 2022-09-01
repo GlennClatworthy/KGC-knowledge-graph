@@ -1,99 +1,71 @@
-o,s,k
 Academic,http://www.knowledgegraph.tech/iri/00465,http://www.w3.org/2004/02/skos/core#Concept
-California Consumer Privacy Act,http://www.knowledgegraph.tech/iri/00335,http://www.w3.org/2004/02/skos/core#Concept
-Cyber security,http://www.knowledgegraph.tech/iri/00469,http://www.w3.org/2004/02/skos/core#Concept
-DBpedia,http://www.knowledgegraph.tech/iri/00363,http://www.w3.org/2004/02/skos/core#Concept
-Data economy,http://www.knowledgegraph.tech/iri/00410,http://www.w3.org/2004/02/skos/core#Concept
-EKG,http://www.knowledgegraph.tech/iri/00377,http://www.w3.org/2004/02/skos/core#Concept
-Elasticsearch,http://www.knowledgegraph.tech/iri/00435,http://www.w3.org/2004/02/skos/core#Concept
-European General Data Protection Regulation,http://www.knowledgegraph.tech/iri/00331,http://www.w3.org/2004/02/skos/core#Concept
-FAIR data,http://www.knowledgegraph.tech/iri/00420,http://www.w3.org/2004/02/skos/core#Concept
-Finance,_:node194,http://schema.org/Thing
-"Financial Industry Business Ontology,Stock Index",http://www.knowledgegraph.tech/iri/00448,http://www.w3.org/2004/02/skos/core#Concept
-Global Legal Entity Identifier Foundation,http://www.knowledgegraph.tech/iri/00450,http://www.w3.org/2004/02/skos/core#Concept
-GraphQL,http://www.knowledgegraph.tech/iri/00431,http://www.w3.org/2004/02/skos/core#Concept
-International Standard Industrial Classification,http://www.knowledgegraph.tech/iri/00301,http://schema.org/Thing
-Internet,http://www.knowledgegraph.tech/iri/00211,http://schema.org/Thing
-Internet marketing,_:node84,http://schema.org/Thing
-Library of Congress Authorities,http://www.knowledgegraph.tech/iri/00365,http://www.w3.org/2004/02/skos/core#Concept
-Library of Congress Subject Headings,http://www.knowledgegraph.tech/iri/00364,http://www.w3.org/2004/02/skos/core#Concept
-Linked Data Fragments,http://www.knowledgegraph.tech/iri/00187,http://schema.org/Thing
-MongoDB,http://www.knowledgegraph.tech/iri/00434,http://www.w3.org/2004/02/skos/core#Concept
-Open-source Intelligence,_:node67,http://schema.org/Thing
-OpenCorporates,http://www.knowledgegraph.tech/iri/00451,http://www.w3.org/2004/02/skos/core#Concept
-Predictive analytics,http://www.knowledgegraph.tech/iri/00358,http://www.w3.org/2004/02/skos/core#Concept
-Regulatory compliance,http://www.knowledgegraph.tech/iri/00346,http://www.w3.org/2004/02/skos/core#Concept
-Resource Description Framework,http://www.knowledgegraph.tech/iri/00391,http://www.w3.org/2004/02/skos/core#Concept
-Resource Description Framework,http://www.knowledgegraph.tech/iri/00416,http://www.w3.org/2004/02/skos/core#Concept
-Resource Description Framework,http://www.knowledgegraph.tech/iri/00436,http://www.w3.org/2004/02/skos/core#Concept
-Resource Description Framework,http://www.knowledgegraph.tech/iri/00457,http://www.w3.org/2004/02/skos/core#Concept
-SPARQL,http://www.knowledgegraph.tech/iri/00432,http://www.w3.org/2004/02/skos/core#Concept
-Semantic Web,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-B6B8765DD19254E747A07829F79AB7C1,http://schema.org/Thing
-Semantic Web,http://www.knowledgegraph.tech/iri/00037,http://schema.org/Thing
-Simple Knowledge Organization System,http://www.knowledgegraph.tech/iri/00386,http://www.w3.org/2004/02/skos/core#Concept
-Stock management,http://www.knowledgegraph.tech/iri/00355,http://www.w3.org/2004/02/skos/core#Concept
-VIP,http://www.knowledgegraph.tech/iri/00395,http://www.w3.org/2004/02/skos/core#Concept
-Web Ontology Language,http://www.knowledgegraph.tech/iri/00404,http://www.w3.org/2004/02/skos/core#Concept
-Web Ontology Language,http://www.knowledgegraph.tech/iri/00417,http://www.w3.org/2004/02/skos/core#Concept
-Web Ontology Language,http://www.knowledgegraph.tech/iri/00433,http://www.w3.org/2004/02/skos/core#Concept
-Web science,http://www.knowledgegraph.tech/iri/00286,http://schema.org/Thing
-Wikidata,http://www.knowledgegraph.tech/iri/00362,http://www.w3.org/2004/02/skos/core#Concept
-World Wide Web,http://www.knowledgegraph.tech/iri/00186,http://schema.org/Thing
-altmetrics,http://www.knowledgegraph.tech/iri/00288,http://schema.org/Thing
+altmetrics,http://www.knowledgegraph.tech/iri/00288,http://www.w3.org/2004/02/skos/core#Concept
 anti-money laundering,http://www.knowledgegraph.tech/iri/00345,http://www.w3.org/2004/02/skos/core#Concept
-artificial intelligence,http://www.knowledgegraph.tech/iri/00053,http://schema.org/Thing
+artificial intelligence,http://www.knowledgegraph.tech/iri/00053,http://www.w3.org/2004/02/skos/core#Concept
 authority control,http://www.knowledgegraph.tech/iri/00366,http://www.w3.org/2004/02/skos/core#Concept
-bank,http://www.knowledgegraph.tech/iri/00299,http://schema.org/Thing
-banking industry,_:node109,http://schema.org/Thing
+bank,http://www.knowledgegraph.tech/iri/00299,http://www.w3.org/2004/02/skos/core#Concept
+banking industry,_:node109,http://www.w3.org/2004/02/skos/core#Concept
 binary classification,http://www.knowledgegraph.tech/iri/00427,http://www.w3.org/2004/02/skos/core#Concept
-business architecture,http://www.knowledgegraph.tech/iri/00254,http://schema.org/Thing
-change management,http://www.knowledgegraph.tech/iri/00314,http://schema.org/Thing
-cloud computing,http://www.knowledgegraph.tech/iri/00150,http://schema.org/Thing
-communication medium,http://www.knowledgegraph.tech/iri/00214,http://schema.org/Thing
-computer science,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-13C96C986119B1E1E975981CB8C412D5,http://schema.org/Thing
-computer science,http://www.knowledgegraph.tech/iri/00185,http://schema.org/Thing
-consulting,http://www.knowledgegraph.tech/iri/00247,http://schema.org/Thing
+business architecture,http://www.knowledgegraph.tech/iri/00254,http://www.w3.org/2004/02/skos/core#Concept
+California Consumer Privacy Act,http://www.knowledgegraph.tech/iri/00335,http://www.w3.org/2004/02/skos/core#Concept
+change management,http://www.knowledgegraph.tech/iri/00314,http://www.w3.org/2004/02/skos/core#Concept
+cloud computing,http://www.knowledgegraph.tech/iri/00150,http://www.w3.org/2004/02/skos/core#Concept
+communication medium,http://www.knowledgegraph.tech/iri/00214,http://www.w3.org/2004/02/skos/core#Concept
+computer science,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-13C96C986119B1E1E975981CB8C412D5,http://www.w3.org/2004/02/skos/core#Concept
+computer science,http://www.knowledgegraph.tech/iri/00185,http://www.w3.org/2004/02/skos/core#Concept
+consulting,http://www.knowledgegraph.tech/iri/00247,http://www.w3.org/2004/02/skos/core#Concept
 controlled vocabulary,http://www.knowledgegraph.tech/iri/00367,http://www.w3.org/2004/02/skos/core#Concept
 customer relationship management,http://www.knowledgegraph.tech/iri/00439,http://www.w3.org/2004/02/skos/core#Concept
+Cyber security,http://www.knowledgegraph.tech/iri/00469,http://www.w3.org/2004/02/skos/core#Concept
 cyber security,http://www.knowledgegraph.tech/iri/00344,http://www.w3.org/2004/02/skos/core#Concept
 data catalog,http://www.knowledgegraph.tech/iri/00341,http://www.w3.org/2004/02/skos/core#Concept
 data catalog,http://www.knowledgegraph.tech/iri/00476,http://www.w3.org/2004/02/skos/core#Concept
+Data economy,http://www.knowledgegraph.tech/iri/00410,http://www.w3.org/2004/02/skos/core#Concept
 data extraction,http://www.knowledgegraph.tech/iri/00352,http://www.w3.org/2004/02/skos/core#Concept
 data governance,http://www.knowledgegraph.tech/iri/00479,http://www.w3.org/2004/02/skos/core#Concept
-data integration,http://www.knowledgegraph.tech/iri/00290,http://schema.org/Thing
-data lineage,http://www.knowledgegraph.tech/iri/00289,http://schema.org/Thing
-data management,http://www.knowledgegraph.tech/iri/00041,http://schema.org/Thing
+data integration,http://www.knowledgegraph.tech/iri/00290,http://www.w3.org/2004/02/skos/core#Concept
+data lineage,http://www.knowledgegraph.tech/iri/00289,http://www.w3.org/2004/02/skos/core#Concept
+data management,http://www.knowledgegraph.tech/iri/00041,http://www.w3.org/2004/02/skos/core#Concept
 data modeling,http://www.knowledgegraph.tech/iri/00378,http://www.w3.org/2004/02/skos/core#Concept
 data visualization,http://www.knowledgegraph.tech/iri/00412,http://www.w3.org/2004/02/skos/core#Concept
-decentralization on the internet,http://www.knowledgegraph.tech/iri/00184,http://schema.org/Thing
+DBpedia,http://www.knowledgegraph.tech/iri/00363,http://www.w3.org/2004/02/skos/core#Concept
+decentralization on the internet,http://www.knowledgegraph.tech/iri/00184,http://www.w3.org/2004/02/skos/core#Concept
 decision support system,http://www.knowledgegraph.tech/iri/00372,http://www.w3.org/2004/02/skos/core#Concept
 deep learning,http://www.knowledgegraph.tech/iri/00390,http://www.w3.org/2004/02/skos/core#Concept
 deep linking,http://www.knowledgegraph.tech/iri/00425,http://www.w3.org/2004/02/skos/core#Concept
 derivative,http://www.knowledgegraph.tech/iri/00449,http://www.w3.org/2004/02/skos/core#Concept
 drug discovery,http://www.knowledgegraph.tech/iri/00481,http://www.w3.org/2004/02/skos/core#Concept
-e-commerce,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-C7393FA5A72515348CA2A21E4E47FC90,http://schema.org/Thing
+e-commerce,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-C7393FA5A72515348CA2A21E4E47FC90,http://www.w3.org/2004/02/skos/core#Concept
+EKG,http://www.knowledgegraph.tech/iri/00377,http://www.w3.org/2004/02/skos/core#Concept
+Elasticsearch,http://www.knowledgegraph.tech/iri/00435,http://www.w3.org/2004/02/skos/core#Concept
 engineering,http://www.knowledgegraph.tech/iri/00413,http://www.w3.org/2004/02/skos/core#Concept
 entity linking,http://www.knowledgegraph.tech/iri/00407,http://www.w3.org/2004/02/skos/core#Concept
 entity linking,http://www.knowledgegraph.tech/iri/00424,http://www.w3.org/2004/02/skos/core#Concept
 entity linking,http://www.knowledgegraph.tech/iri/00472,http://www.w3.org/2004/02/skos/core#Concept
+European General Data Protection Regulation,http://www.knowledgegraph.tech/iri/00331,http://www.w3.org/2004/02/skos/core#Concept
 fact checking,http://www.knowledgegraph.tech/iri/00380,http://www.w3.org/2004/02/skos/core#Concept
 fact checking,http://www.knowledgegraph.tech/iri/00474,http://www.w3.org/2004/02/skos/core#Concept
+FAIR data,http://www.knowledgegraph.tech/iri/00420,http://www.w3.org/2004/02/skos/core#Concept
 fake news,http://www.knowledgegraph.tech/iri/00381,http://www.w3.org/2004/02/skos/core#Concept
+Finance,_:node194,http://www.w3.org/2004/02/skos/core#Concept
 finance,http://www.knowledgegraph.tech/iri/00329,http://www.w3.org/2004/02/skos/core#Concept
 finance,http://www.knowledgegraph.tech/iri/00350,http://www.w3.org/2004/02/skos/core#Concept
 finance,http://www.knowledgegraph.tech/iri/00383,http://www.w3.org/2004/02/skos/core#Concept
 finance,http://www.knowledgegraph.tech/iri/00438,http://www.w3.org/2004/02/skos/core#Concept
 finance,http://www.knowledgegraph.tech/iri/00446,http://www.w3.org/2004/02/skos/core#Concept
-financial services,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-EF55DE3A5B85C4E0BF5961ABDC4B345B,http://schema.org/Thing
-financial services,http://www.knowledgegraph.tech/iri/00009,http://schema.org/Thing
+"Financial Industry Business Ontology,Stock Index",http://www.knowledgegraph.tech/iri/00448,http://www.w3.org/2004/02/skos/core#Concept
+financial services,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-EF55DE3A5B85C4E0BF5961ABDC4B345B,http://www.w3.org/2004/02/skos/core#Concept
+financial services,http://www.knowledgegraph.tech/iri/00009,http://www.w3.org/2004/02/skos/core#Concept
 fraud prevention,http://www.knowledgegraph.tech/iri/00458,http://www.w3.org/2004/02/skos/core#Concept
+Global Legal Entity Identifier Foundation,http://www.knowledgegraph.tech/iri/00450,http://www.w3.org/2004/02/skos/core#Concept
 government,http://www.knowledgegraph.tech/iri/00397,http://www.w3.org/2004/02/skos/core#Concept
 government,http://www.knowledgegraph.tech/iri/00459,http://www.w3.org/2004/02/skos/core#Concept
 government,http://www.knowledgegraph.tech/iri/00478,http://www.w3.org/2004/02/skos/core#Concept
 graph algorithm,http://www.knowledgegraph.tech/iri/00440,http://www.w3.org/2004/02/skos/core#Concept
-graph database,_:node61,http://schema.org/Thing
+graph database,_:node61,http://www.w3.org/2004/02/skos/core#Concept
 graph property,http://www.knowledgegraph.tech/iri/00392,http://www.w3.org/2004/02/skos/core#Concept
 graph property,http://www.knowledgegraph.tech/iri/00456,http://www.w3.org/2004/02/skos/core#Concept
+GraphQL,http://www.knowledgegraph.tech/iri/00431,http://www.w3.org/2004/02/skos/core#Concept
 information extraction,http://www.knowledgegraph.tech/iri/00353,http://www.w3.org/2004/02/skos/core#Concept
 information extraction,http://www.knowledgegraph.tech/iri/00384,http://www.w3.org/2004/02/skos/core#Concept
 information extraction,http://www.knowledgegraph.tech/iri/00428,http://www.w3.org/2004/02/skos/core#Concept
@@ -101,59 +73,69 @@ information extraction,http://www.knowledgegraph.tech/iri/00467,http://www.w3.or
 information extraction,http://www.knowledgegraph.tech/iri/00473,http://www.w3.org/2004/02/skos/core#Concept
 information privacy,http://www.knowledgegraph.tech/iri/00332,http://www.w3.org/2004/02/skos/core#Concept
 information privacy,http://www.knowledgegraph.tech/iri/00336,http://www.w3.org/2004/02/skos/core#Concept
-information technology,_:node86,http://schema.org/Thing
-information technology,http://www.knowledgegraph.tech/iri/00279,http://schema.org/Thing
-information technology consulting,http://www.knowledgegraph.tech/iri/00260,http://schema.org/Thing
+information technology,_:node86,http://www.w3.org/2004/02/skos/core#Concept
+information technology,http://www.knowledgegraph.tech/iri/00279,http://www.w3.org/2004/02/skos/core#Concept
+information technology consulting,http://www.knowledgegraph.tech/iri/00260,http://www.w3.org/2004/02/skos/core#Concept
 intelligence assessment,http://www.knowledgegraph.tech/iri/00415,http://www.w3.org/2004/02/skos/core#Concept
-internet industry,_:node85,http://schema.org/Thing
+International Standard Industrial Classification,http://www.knowledgegraph.tech/iri/00301,http://www.w3.org/2004/02/skos/core#Concept
+Internet,http://www.knowledgegraph.tech/iri/00211,http://www.w3.org/2004/02/skos/core#Concept
+internet industry,_:node85,http://www.w3.org/2004/02/skos/core#Concept
+Internet marketing,_:node84,http://www.w3.org/2004/02/skos/core#Concept
 issue tracking system,http://www.knowledgegraph.tech/iri/00463,http://www.w3.org/2004/02/skos/core#Concept
-knowledge graph,http://www.knowledgegraph.tech/iri/00044,http://schema.org/Thing
+knowledge graph,http://www.knowledgegraph.tech/iri/00044,http://www.w3.org/2004/02/skos/core#Concept
 law,http://www.knowledgegraph.tech/iri/00442,http://www.w3.org/2004/02/skos/core#Concept
 law firm,http://www.knowledgegraph.tech/iri/00443,http://www.w3.org/2004/02/skos/core#Concept
 library,http://www.knowledgegraph.tech/iri/00360,http://www.w3.org/2004/02/skos/core#Concept
+Library of Congress Authorities,http://www.knowledgegraph.tech/iri/00365,http://www.w3.org/2004/02/skos/core#Concept
+Library of Congress Subject Headings,http://www.knowledgegraph.tech/iri/00364,http://www.w3.org/2004/02/skos/core#Concept
 library science,http://www.knowledgegraph.tech/iri/00361,http://www.w3.org/2004/02/skos/core#Concept
 life sciences,http://www.knowledgegraph.tech/iri/00414,http://www.w3.org/2004/02/skos/core#Concept
+Linked Data Fragments,http://www.knowledgegraph.tech/iri/00187,http://www.w3.org/2004/02/skos/core#Concept
 machine learning,http://www.knowledgegraph.tech/iri/00347,http://www.w3.org/2004/02/skos/core#Concept
 machine learning,http://www.knowledgegraph.tech/iri/00389,http://www.w3.org/2004/02/skos/core#Concept
 machine learning,http://www.knowledgegraph.tech/iri/00399,http://www.w3.org/2004/02/skos/core#Concept
 machine learning,http://www.knowledgegraph.tech/iri/00423,http://www.w3.org/2004/02/skos/core#Concept
 machine learning,http://www.knowledgegraph.tech/iri/00466,http://www.w3.org/2004/02/skos/core#Concept
-management consulting industry,http://www.knowledgegraph.tech/iri/00270,http://schema.org/Thing
+management consulting industry,http://www.knowledgegraph.tech/iri/00270,http://www.w3.org/2004/02/skos/core#Concept
 master data management,http://www.knowledgegraph.tech/iri/00376,http://www.w3.org/2004/02/skos/core#Concept
-media industry,http://www.knowledgegraph.tech/iri/00070,http://schema.org/Thing
+media industry,http://www.knowledgegraph.tech/iri/00070,http://www.w3.org/2004/02/skos/core#Concept
 metadata,http://www.knowledgegraph.tech/iri/00396,http://www.w3.org/2004/02/skos/core#Concept
 metadata management,http://www.knowledgegraph.tech/iri/00342,http://www.w3.org/2004/02/skos/core#Concept
 metadata management,http://www.knowledgegraph.tech/iri/00477,http://www.w3.org/2004/02/skos/core#Concept
-missing person,_:node66,http://schema.org/Thing
+missing person,_:node66,http://www.w3.org/2004/02/skos/core#Concept
+MongoDB,http://www.knowledgegraph.tech/iri/00434,http://www.w3.org/2004/02/skos/core#Concept
 natural language processing,http://www.knowledgegraph.tech/iri/00351,http://www.w3.org/2004/02/skos/core#Concept
 natural language processing,http://www.knowledgegraph.tech/iri/00370,http://www.w3.org/2004/02/skos/core#Concept
 natural language processing,http://www.knowledgegraph.tech/iri/00385,http://www.w3.org/2004/02/skos/core#Concept
 natural language processing,http://www.knowledgegraph.tech/iri/00429,http://www.w3.org/2004/02/skos/core#Concept
-network theory,_:node24,http://schema.org/Thing
-news,http://www.knowledgegraph.tech/iri/00069,http://schema.org/Thing
+network theory,_:node24,http://www.w3.org/2004/02/skos/core#Concept
+news,http://www.knowledgegraph.tech/iri/00069,http://www.w3.org/2004/02/skos/core#Concept
 ontology,http://www.knowledgegraph.tech/iri/00338,http://www.w3.org/2004/02/skos/core#Concept
 ontology,http://www.knowledgegraph.tech/iri/00387,http://www.w3.org/2004/02/skos/core#Concept
 ontology,http://www.knowledgegraph.tech/iri/00403,http://www.w3.org/2004/02/skos/core#Concept
 ontology,http://www.knowledgegraph.tech/iri/00418,http://www.w3.org/2004/02/skos/core#Concept
 ontology,http://www.knowledgegraph.tech/iri/00447,http://www.w3.org/2004/02/skos/core#Concept
 ontology,http://www.knowledgegraph.tech/iri/00470,http://www.w3.org/2004/02/skos/core#Concept
-ontology engineering,http://www.knowledgegraph.tech/iri/00198,http://schema.org/Thing
+ontology engineering,http://www.knowledgegraph.tech/iri/00198,http://www.w3.org/2004/02/skos/core#Concept
 open data,http://www.knowledgegraph.tech/iri/00368,http://www.w3.org/2004/02/skos/core#Concept
 open data,http://www.knowledgegraph.tech/iri/00452,http://www.w3.org/2004/02/skos/core#Concept
-outsourcing,http://www.knowledgegraph.tech/iri/00276,http://schema.org/Thing
+Open-source Intelligence,_:node67,http://www.w3.org/2004/02/skos/core#Concept
+OpenCorporates,http://www.knowledgegraph.tech/iri/00451,http://www.w3.org/2004/02/skos/core#Concept
+outsourcing,http://www.knowledgegraph.tech/iri/00276,http://www.w3.org/2004/02/skos/core#Concept
 personal data,http://www.knowledgegraph.tech/iri/00333,http://www.w3.org/2004/02/skos/core#Concept
 personal data,http://www.knowledgegraph.tech/iri/00337,http://www.w3.org/2004/02/skos/core#Concept
 petroleum industry,http://www.knowledgegraph.tech/iri/00461,http://www.w3.org/2004/02/skos/core#Concept
-pharmaceutical industry,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-3DB94A726311A6BD51557C5CC5BC96EE,http://schema.org/Thing
-pharmaceutical industry,http://www.knowledgegraph.tech/iri/00206,http://schema.org/Thing
+pharmaceutical industry,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-3DB94A726311A6BD51557C5CC5BC96EE,http://www.w3.org/2004/02/skos/core#Concept
+pharmaceutical industry,http://www.knowledgegraph.tech/iri/00206,http://www.w3.org/2004/02/skos/core#Concept
+Predictive analytics,http://www.knowledgegraph.tech/iri/00358,http://www.w3.org/2004/02/skos/core#Concept
 privacy,http://www.knowledgegraph.tech/iri/00330,http://www.w3.org/2004/02/skos/core#Concept
 privacy,http://www.knowledgegraph.tech/iri/00334,http://www.w3.org/2004/02/skos/core#Concept
 privacy,http://www.knowledgegraph.tech/iri/00409,http://www.w3.org/2004/02/skos/core#Concept
-professional services industry,http://www.knowledgegraph.tech/iri/00251,http://schema.org/Thing
+professional services industry,http://www.knowledgegraph.tech/iri/00251,http://www.w3.org/2004/02/skos/core#Concept
 public data,http://www.knowledgegraph.tech/iri/00398,http://www.w3.org/2004/02/skos/core#Concept
 public data,http://www.knowledgegraph.tech/iri/00454,http://www.w3.org/2004/02/skos/core#Concept
-publishing,_:node14,http://schema.org/Thing
-real estate,http://www.knowledgegraph.tech/iri/00173,http://schema.org/Thing
+publishing,_:node14,http://www.w3.org/2004/02/skos/core#Concept
+real estate,http://www.knowledgegraph.tech/iri/00173,http://www.w3.org/2004/02/skos/core#Concept
 reasoning,http://www.knowledgegraph.tech/iri/00348,http://www.w3.org/2004/02/skos/core#Concept
 reasoning,http://www.knowledgegraph.tech/iri/00406,http://www.w3.org/2004/02/skos/core#Concept
 recommender system,http://www.knowledgegraph.tech/iri/00339,http://www.w3.org/2004/02/skos/core#Concept
@@ -161,22 +143,39 @@ recommender system,http://www.knowledgegraph.tech/iri/00402,http://www.w3.org/20
 recommender system,http://www.knowledgegraph.tech/iri/00426,http://www.w3.org/2004/02/skos/core#Concept
 recommender system,http://www.knowledgegraph.tech/iri/00444,http://www.w3.org/2004/02/skos/core#Concept
 recommender system,http://www.knowledgegraph.tech/iri/00462,http://www.w3.org/2004/02/skos/core#Concept
-retail,_:node208,http://schema.org/Thing
+Regulatory compliance,http://www.knowledgegraph.tech/iri/00346,http://www.w3.org/2004/02/skos/core#Concept
+Resource Description Framework,http://www.knowledgegraph.tech/iri/00391,http://www.w3.org/2004/02/skos/core#Concept
+Resource Description Framework,http://www.knowledgegraph.tech/iri/00416,http://www.w3.org/2004/02/skos/core#Concept
+Resource Description Framework,http://www.knowledgegraph.tech/iri/00436,http://www.w3.org/2004/02/skos/core#Concept
+Resource Description Framework,http://www.knowledgegraph.tech/iri/00457,http://www.w3.org/2004/02/skos/core#Concept
+retail,_:node208,http://www.w3.org/2004/02/skos/core#Concept
 scholarly communication,http://www.knowledgegraph.tech/iri/00400,http://www.w3.org/2004/02/skos/core#Concept
-search,http://www.knowledgegraph.tech/iri/00313,http://schema.org/Thing
+search,http://www.knowledgegraph.tech/iri/00313,http://www.w3.org/2004/02/skos/core#Concept
 security,http://www.knowledgegraph.tech/iri/00453,http://www.w3.org/2004/02/skos/core#Concept
 semantic network,http://www.knowledgegraph.tech/iri/00374,http://www.w3.org/2004/02/skos/core#Concept
+Semantic Web,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-B6B8765DD19254E747A07829F79AB7C1,http://www.w3.org/2004/02/skos/core#Concept
+Semantic Web,http://www.knowledgegraph.tech/iri/00037,http://www.w3.org/2004/02/skos/core#Concept
+Simple Knowledge Organization System,http://www.knowledgegraph.tech/iri/00386,http://www.w3.org/2004/02/skos/core#Concept
 social science,http://www.knowledgegraph.tech/iri/00394,http://www.w3.org/2004/02/skos/core#Concept
-software development,_:node29,http://schema.org/Thing
-software development,http://www.knowledgegraph.tech/iri/00262,http://schema.org/Thing
-software industry,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-F6F406EFA94D5F9097F49C6D2C592036,http://schema.org/Thing
-software industry,http://www.knowledgegraph.tech/iri/00038,http://schema.org/Thing
+software development,_:node29,http://www.w3.org/2004/02/skos/core#Concept
+software development,http://www.knowledgegraph.tech/iri/00262,http://www.w3.org/2004/02/skos/core#Concept
+software industry,_:genid-d73e3645a34b4fd2a954dec3d27f308c2189-F6F406EFA94D5F9097F49C6D2C592036,http://www.w3.org/2004/02/skos/core#Concept
+software industry,http://www.knowledgegraph.tech/iri/00038,http://www.w3.org/2004/02/skos/core#Concept
+SPARQL,http://www.knowledgegraph.tech/iri/00432,http://www.w3.org/2004/02/skos/core#Concept
+Stock management,http://www.knowledgegraph.tech/iri/00355,http://www.w3.org/2004/02/skos/core#Concept
 supply-chain management,http://www.knowledgegraph.tech/iri/00356,http://www.w3.org/2004/02/skos/core#Concept
 supply-chain management,http://www.knowledgegraph.tech/iri/00357,http://www.w3.org/2004/02/skos/core#Concept
-taxonomy,http://www.knowledgegraph.tech/iri/00311,http://schema.org/Thing
-technology,http://www.knowledgegraph.tech/iri/00217,http://schema.org/Thing
-technology industry,_:node30,http://schema.org/Thing
+taxonomy,http://www.knowledgegraph.tech/iri/00311,http://www.w3.org/2004/02/skos/core#Concept
+technology,http://www.knowledgegraph.tech/iri/00217,http://www.w3.org/2004/02/skos/core#Concept
+technology industry,_:node30,http://www.w3.org/2004/02/skos/core#Concept
 translational medicine,http://www.knowledgegraph.tech/iri/00421,http://www.w3.org/2004/02/skos/core#Concept
+VIP,http://www.knowledgegraph.tech/iri/00395,http://www.w3.org/2004/02/skos/core#Concept
 virtual assistant,http://www.knowledgegraph.tech/iri/00371,http://www.w3.org/2004/02/skos/core#Concept
-web hosting service,_:node207,http://schema.org/Thing
-web service,_:node206,http://schema.org/Thing
+web hosting service,_:node207,http://www.w3.org/2004/02/skos/core#Concept
+Web Ontology Language,http://www.knowledgegraph.tech/iri/00404,http://www.w3.org/2004/02/skos/core#Concept
+Web Ontology Language,http://www.knowledgegraph.tech/iri/00417,http://www.w3.org/2004/02/skos/core#Concept
+Web Ontology Language,http://www.knowledgegraph.tech/iri/00433,http://www.w3.org/2004/02/skos/core#Concept
+Web science,http://www.knowledgegraph.tech/iri/00286,http://www.w3.org/2004/02/skos/core#Concept
+web service,_:node206,http://www.w3.org/2004/02/skos/core#Concept
+Wikidata,http://www.knowledgegraph.tech/iri/00362,http://www.w3.org/2004/02/skos/core#Concept
+World Wide Web,http://www.knowledgegraph.tech/iri/00186,http://www.w3.org/2004/02/skos/core#Concept
